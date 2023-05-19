@@ -1,2 +1,2 @@
 this is file 1
-i'm trying to make local changes to file 1
+once again I am adding some text and updating the remote directly
