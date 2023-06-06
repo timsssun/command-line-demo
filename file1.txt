@@ -3,4 +3,4 @@ some LIVE TEXT im adding during a LIVE DEMO
 
 this is file 1 editing locally
 once again I am adding some text and updating the remote directly and adding some text locally
-remotely directly, im adding a third line to file 1 and editing it a bit
+remotely directly, im adding a third line to file 1 and editing it a bit!
